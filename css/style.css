@@ -5,6 +5,7 @@ td, th {
 body{
   background-color: darkgray;
   font-family: Comic Sans, Arial;
+  text-align: center;
 }
 
 h1{
@@ -20,8 +21,8 @@ table#planets{
 }
 
 tr#outer, td#outer{
-  color: red;
-  background-color: blue;
+  color: indianred;
+  background-color: aqua;
   font-weight: 600;
   border-color: black;
 }
