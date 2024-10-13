@@ -17,6 +17,6 @@ table{
   color: Orange;
   background-color: LightBlue;
   float: left;
-  width: 400px;
-  height: 400px;
+  size: 300%;
+  border: 10px DarkBlue;
 }
