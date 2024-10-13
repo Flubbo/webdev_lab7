@@ -2,8 +2,8 @@ td, th {
 	border: 1px solid;
   }
 
-main{
-  background-color: Gray;
+body{
+  background-color: DarkGray;
   font-family: Comic Sans, Arial;
 }
 
@@ -17,4 +17,6 @@ table{
   color: Orange;
   background-color: LightBlue;
   float: left;
+  width: 400px;
+  height: 400px;
 }
