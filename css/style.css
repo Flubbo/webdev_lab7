@@ -8,7 +8,7 @@ body{
 }
 
 h1{
-  color: red;
+  color: DarkBlue;
   background-color: DarkGray;
   font-size: 75px;
 }
@@ -17,4 +17,9 @@ table#planets{
   color: Orange;
   background-color: LightBlue;
   font-size: 30px;
+}
+
+#outer{
+  color: Red;
+  font-weight: 550;
 }
