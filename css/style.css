@@ -3,7 +3,7 @@ td, th {
   }
 
 body{
-  background-image: url("images/space.jpg") !important; 
+  background-image: url(../images/space.jpg) !important; 
   background-color: darkgray;
   font-family: Comic Sans, Arial;
   text-align: center;
