@@ -10,13 +10,11 @@ body{
 h1{
   color: red;
   background-color: DarkGray;
-  font-size: 50px;
+  font-size: 75px;
 }
 
-table{
+table#planets{
   color: Orange;
   background-color: LightBlue;
-  float: left;
-  size: 300%;
-  border: 10px DarkBlue;
+  font-size: 30px;
 }
