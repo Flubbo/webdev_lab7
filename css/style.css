@@ -20,6 +20,7 @@ table#planets{
 }
 
 #outer{
-  color: Red;
-  font-weight: 550;
+  color: Red !important;
+  background-color: Blue;
+  font-weight: 600;
 }
