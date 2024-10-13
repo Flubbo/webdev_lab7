@@ -1,4 +1,20 @@
 td, th {
 	border: 1px solid;
   }
-  
+
+main{
+  background-color: Gray;
+  font-family: Comic Sans, Arial;
+}
+
+h1{
+  color: red;
+  background-color: DarkGray;
+  font-size: 50px;
+}
+
+table{
+  color: Orange;
+  background-color: LightBlue;
+  float: left;
+}
