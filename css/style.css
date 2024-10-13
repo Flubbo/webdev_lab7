@@ -3,7 +3,7 @@ td, th {
   }
 
 body{
-  background-image: url(../images/space.jpg) !important; 
+  background-image: url(../images/space.jpg); 
   background-color: darkgray;
   font-family: Comic Sans, Arial;
   text-align: center;
@@ -11,8 +11,9 @@ body{
 
 h1{
   color: darkblue;
-  background-color: darkgray;
+  background-color: 50,50,50;
   font-size: 75px;
+  width: 300px;
 }
 
 table#planets{
