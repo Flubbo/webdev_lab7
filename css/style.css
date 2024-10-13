@@ -3,24 +3,25 @@ td, th {
   }
 
 body{
-  background-color: DarkGray;
+  background-color: darkgray;
   font-family: Comic Sans, Arial;
 }
 
 h1{
-  color: DarkBlue;
-  background-color: DarkGray;
+  color: darkblue;
+  background-color: darkgray;
   font-size: 75px;
 }
 
 table#planets{
-  color: Orange;
-  background-color: LightBlue;
+  color: orange;
+  background-color: lightblue;
   font-size: 30px;
 }
 
-#outer{
-  color: Red !important;
-  background-color: Blue;
+tr#outer, td#outer{
+  color: red;
+  background-color: blue;
   font-weight: 600;
+  border-color: black;
 }
